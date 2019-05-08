@@ -4,11 +4,11 @@
 
 ### `Step-2`: Create a bare clone of this repository
 ```bash
-git clone --bare https://github.com/rebeccapeltz/gitbook-publishable-template.git
+git clone --bare https://github.com/jubayer-hossain/Gitbook-Template.git
 ```
 ### `Step-3`: Mirror-push to new repository
 ```bash
-cd gitbook-publishable-template.git
+cd Gitbook-Template.git
 ```
 ```bash
 git push --mirror https://github.com/useraccount/new-repository.git
