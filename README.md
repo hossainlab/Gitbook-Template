@@ -1,7 +1,4 @@
 <h2 align="center">Gitbook Template</h2>
-<p align="center">
-  <a href="https://img.shields.io/github/issues/jubayer-hossain/Gitbook-Template.svg"></a>
-</p>
 
 ### `Step-1`: Create a new repository on github.com  
 
